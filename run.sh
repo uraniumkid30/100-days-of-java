@@ -1,8 +1,8 @@
 #!/bin/bash
 
-Class='Day0006'
+Class='Day0007'
 
-Directory='DAY0006'
+Directory='DAY0007'
 Extension='.java'
 
 CompilerCommand="$Directory/$Class$Extension"
